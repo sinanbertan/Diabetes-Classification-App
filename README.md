@@ -77,8 +77,8 @@ The following tools were used for this analysis:
 - Contributions to this project are welcome. If you notice any errors or have ideas for additional analyses, please feel free to open an issue or submit a pull request.
 
 ## Application screenshots:
-![img1]()
-![img2]()
+![img1](https://github.com/sinanbertan/Indians-Diabetes-Classification-EDA/blob/main/streamlit1.png)
+![img2](https://github.com/sinanbertan/Indians-Diabetes-Classification-EDA/blob/main/streamlit2.png)
 
 
 ## Conclusion 
