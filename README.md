@@ -1,5 +1,5 @@
 
-# Indians-Diabetes-Classification-EDA
+# Indians-Diabetes-Classification-EDA-App
 - This project focuses on prediction if patient are diabetes or not. The project includes machine learning, exploratory data analysis (EDA), and data visualization techniques to gain insights into the dataset and understand its patterns. The project uses the diabetes.csv dataset, which can be downloaded from Kaggle: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 
@@ -75,6 +75,10 @@ The following tools were used for this analysis:
 ## Contributing
 
 - Contributions to this project are welcome. If you notice any errors or have ideas for additional analyses, please feel free to open an issue or submit a pull request.
+
+## Application screenshots:
+![img1]()
+![img2]()
 
 
 ## Conclusion 
